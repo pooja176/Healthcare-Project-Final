@@ -1,0 +1,501 @@
+﻿Patient_ID,Age,Gender,BMI,Blood_Pressure,Cholesterol_Level,Diabetes,Smoker,Hospital_Visits,Treatment_Cost,Age_Group,Cost_Category
+P0001,69,Male,30.3,129,193,No,No,4,12004.33,Senior,Medium
+P0002,32,Male,22.2,93,164,Yes,No,13,2621.49,Adult,Low
+P0003,89,Male,29.5,143,192,Yes,Yes,9,1817.13,Senior,Low
+P0004,78,Male,18.9,126,236,No,No,4,13670.47,Senior,Medium
+P0005,38,Female,27,108,219,Yes,Yes,9,16642.88,Adult,High Cost
+P0006,41,Female,28.3,155,195,Yes,Yes,12,15858.29,Adult,High Cost
+P0007,20,Female,16.3,115,257,Yes,No,4,11332.31,Young,Medium
+P0008,39,Female,23.4,178,272,No,Yes,9,2897.47,Adult,Low
+P0009,70,Male,18.4,131,170,Yes,Yes,11,14072.84,Senior,Medium
+P0010,19,Male,16.6,155,300,No,No,4,5595.89,Young,Low
+P0011,47,Male,39.7,86,256,Yes,No,2,18310.31,Adult,High Cost
+P0012,55,Female,23.1,108,229,No,Yes,6,16927.04,Adult,High Cost
+P0013,19,Female,35.2,90,196,Yes,Yes,5,14478.28,Young,Medium
+P0014,81,Male,21.4,112,266,No,No,3,19028.07,Senior,High Cost
+P0015,77,Male,32,85,273,No,Yes,1,1597.01,Senior,Low
+P0016,38,Female,34,158,292,Yes,Yes,11,14987.81,Adult,Medium
+P0017,50,Female,29.9,111,174,No,Yes,8,7274.61,Adult,Low
+P0018,75,Male,26.8,130,185,No,Yes,0,18215.25,Senior,High Cost
+P0019,39,Male,25.3,154,200,No,Yes,12,6066.83,Adult,Low
+P0020,66,Female,23.7,137,164,No,Yes,12,14772.27,Senior,Medium
+P0021,76,Male,38.2,166,217,No,Yes,10,17675.29,Senior,High Cost
+P0022,59,Male,35.8,105,170,No,No,14,1791.48,Adult,Low
+P0023,77,Male,39.1,177,290,No,No,13,8555.3,Senior,Medium
+P0024,32,Female,18.1,125,168,No,No,3,15483.87,Adult,High Cost
+P0025,79,Female,33.3,177,183,Yes,No,0,9643.46,Senior,Medium
+P0026,79,Female,38.5,108,227,Yes,No,12,6077.8,Senior,Low
+P0027,64,Female,19.5,83,274,No,Yes,15,5176.3,Senior,Low
+P0028,79,Female,16.7,160,266,No,Yes,15,3498.85,Senior,Low
+P0029,68,Female,33.5,178,201,Yes,Yes,5,17285.46,Senior,High Cost
+P0030,72,Female,29.4,92,176,Yes,Yes,3,11931.75,Senior,Medium
+P0031,81,Male,36,118,184,Yes,No,4,2451.31,Senior,Low
+P0032,20,Male,18.5,94,285,No,Yes,4,8269.03,Young,Medium
+P0033,68,Male,34.9,108,293,Yes,Yes,8,7986.94,Senior,Low
+P0034,24,Male,20,108,255,No,No,0,4453.04,Young,Low
+P0035,38,Male,19.1,154,295,No,Yes,12,9274.64,Adult,Medium
+P0036,90,Male,19.1,111,151,Yes,Yes,1,7309.89,Senior,Low
+P0037,56,Male,35.4,81,226,No,No,12,7494.27,Adult,Low
+P0038,35,Female,31.6,126,281,No,Yes,5,15041.5,Adult,High Cost
+P0039,21,Female,28.1,157,239,No,Yes,4,5242,Young,Low
+P0040,77,Male,24,163,238,No,Yes,10,13195.34,Senior,Medium
+P0041,31,Male,36.9,101,243,Yes,Yes,6,11842.34,Adult,Medium
+P0042,26,Female,24.8,154,156,Yes,Yes,2,11793.76,Young,Medium
+P0043,70,Male,35.4,106,244,No,No,2,13597.14,Senior,Medium
+P0044,19,Male,26,146,257,No,No,9,11419.26,Young,Medium
+P0045,77,Female,24.4,160,223,Yes,No,1,17705.85,Senior,High Cost
+P0046,88,Male,26.6,135,188,No,No,15,13836.02,Senior,Medium
+P0047,61,Female,22.5,171,290,Yes,No,12,11392.3,Senior,Medium
+P0048,25,Male,33.7,172,220,No,No,2,16765.5,Young,High Cost
+P0049,64,Female,27.6,100,205,No,Yes,9,12516.78,Senior,Medium
+P0050,52,Female,20.8,126,191,Yes,No,0,6531.74,Adult,Low
+P0051,53,Female,37.5,159,185,Yes,No,4,4934.8,Adult,Low
+P0052,67,Male,24.6,180,233,Yes,Yes,13,3894.23,Senior,Low
+P0053,21,Female,28.6,138,267,Yes,Yes,14,18089.65,Young,High Cost
+P0054,19,Male,37.7,163,156,No,No,11,14492.57,Young,Medium
+P0055,23,Male,30.6,85,203,Yes,Yes,4,18810.19,Young,High Cost
+P0056,71,Male,17.9,98,278,No,No,11,12462.54,Senior,Medium
+P0057,21,Male,38.5,136,269,Yes,Yes,10,9994.62,Young,Medium
+P0058,71,Female,30.7,148,255,Yes,No,6,2134.61,Senior,Low
+P0059,80,Female,23.4,82,196,No,Yes,3,13761.2,Senior,Medium
+P0060,35,Male,18.5,80,272,Yes,Yes,2,12061.97,Adult,Medium
+P0061,61,Male,34.9,137,290,Yes,No,0,19813.97,Senior,High Cost
+P0062,51,Female,30.5,117,268,Yes,No,11,5544.02,Adult,Low
+P0063,79,Male,28.3,94,299,Yes,No,14,11084.01,Senior,Medium
+P0064,31,Female,37.3,113,267,No,No,7,13368.19,Adult,Medium
+P0065,65,Male,34.7,140,170,No,No,12,13247.23,Senior,Medium
+P0066,32,Male,18.8,114,286,Yes,Yes,2,11664.58,Adult,Medium
+P0067,89,Female,22.8,143,175,Yes,No,12,15761.63,Senior,High Cost
+P0068,79,Male,21.2,104,158,Yes,No,14,4894.64,Senior,Low
+P0069,57,Female,33.6,103,164,No,Yes,1,14786.92,Adult,Medium
+P0070,70,Male,15.8,91,159,No,Yes,10,12774.96,Senior,Medium
+P0071,41,Male,29.2,97,271,No,No,3,18025.43,Adult,High Cost
+P0072,43,Male,34.1,94,270,No,Yes,2,17096.69,Adult,High Cost
+P0073,77,Female,36.9,159,274,Yes,Yes,12,6987.79,Senior,Low
+P0074,58,Male,23.6,106,221,Yes,No,0,6248.51,Adult,Low
+P0075,46,Male,35.5,151,198,Yes,Yes,2,19651.41,Adult,High Cost
+P0076,32,Male,17.8,139,240,No,Yes,11,11018.04,Adult,Medium
+P0077,62,Male,36.2,125,186,Yes,No,1,18222,Senior,High Cost
+P0078,82,Female,18.2,168,217,No,No,7,4113.74,Senior,Low
+P0079,88,Female,24.9,96,199,No,Yes,5,13213.56,Senior,Medium
+P0080,26,Male,34.9,172,168,Yes,Yes,8,16387.34,Young,High Cost
+P0081,18,Female,18.7,132,249,Yes,No,7,19000.51,Young,High Cost
+P0082,25,Male,20.7,87,209,Yes,Yes,9,7409.46,Young,Low
+P0083,80,Male,33.1,158,238,No,Yes,2,14774.64,Senior,Medium
+P0084,28,Male,33,106,295,No,Yes,4,11237.45,Young,Medium
+P0085,25,Female,31,125,296,Yes,No,6,2151.95,Young,Low
+P0086,52,Female,32.3,129,218,Yes,Yes,4,14110,Adult,Medium
+P0087,52,Female,28.6,150,198,No,Yes,7,14111.83,Adult,Medium
+P0088,50,Female,21.3,82,257,Yes,No,11,18681.53,Adult,High Cost
+P0089,22,Female,23.6,172,268,No,Yes,4,10448.94,Young,Medium
+P0090,58,Female,19.5,143,298,No,Yes,0,5374.77,Adult,Low
+P0091,45,Female,37.7,123,299,Yes,No,4,1846.71,Adult,Low
+P0092,24,Female,29.6,132,186,Yes,No,3,8897.2,Young,Medium
+P0093,90,Female,25,103,292,Yes,No,5,6736.42,Senior,Low
+P0094,89,Male,26.6,139,160,Yes,No,2,15460.68,Senior,High Cost
+P0095,29,Female,38.7,82,287,No,Yes,14,7731.09,Young,Low
+P0096,51,Female,18.8,99,227,No,Yes,15,19032.35,Adult,High Cost
+P0097,50,Female,29.7,125,226,No,No,10,19283.89,Adult,High Cost
+P0098,65,Female,27.6,94,151,Yes,No,4,12797.26,Senior,Medium
+P0099,40,Female,30.3,104,213,No,Yes,1,18644.55,Adult,High Cost
+P0100,79,Female,15.5,173,184,Yes,No,10,15456.23,Senior,High Cost
+P0101,54,Female,36.8,157,156,Yes,Yes,5,11390.33,Adult,Medium
+P0102,61,Female,38.3,150,234,Yes,No,12,4425.85,Senior,Low
+P0103,52,Female,29.1,96,295,Yes,Yes,14,9713.36,Adult,Medium
+P0104,82,Female,32.4,163,216,Yes,No,11,11656.61,Senior,Medium
+P0105,64,Female,38.1,179,191,Yes,No,5,17415.27,Senior,High Cost
+P0106,20,Male,32.7,88,267,No,Yes,4,10145.33,Young,Medium
+P0107,18,Male,18.8,117,274,Yes,No,5,18055.82,Young,High Cost
+P0108,22,Female,29.4,127,173,No,Yes,10,13812.63,Young,Medium
+P0109,31,Female,30.2,139,195,No,Yes,6,3602.98,Adult,Low
+P0110,44,Male,25.6,142,168,Yes,Yes,11,19904.65,Adult,High Cost
+P0111,26,Female,33.4,165,217,Yes,Yes,4,11017.42,Young,Medium
+P0112,32,Male,38.4,81,251,Yes,Yes,0,8445.31,Adult,Medium
+P0113,59,Male,38.1,167,191,No,No,7,13523.16,Adult,Medium
+P0114,68,Male,26.3,151,181,Yes,No,3,3068.97,Senior,Low
+P0115,80,Male,17.8,90,258,No,Yes,8,13094.23,Senior,Medium
+P0116,69,Male,39.6,143,185,Yes,No,13,10466.48,Senior,Medium
+P0117,21,Female,36,156,246,Yes,Yes,9,8726.81,Young,Medium
+P0118,40,Male,18.1,160,280,No,No,11,19107.38,Adult,High Cost
+P0119,32,Female,38,151,222,No,No,5,10928.25,Adult,Medium
+P0120,60,Female,36.7,100,285,Yes,No,0,5163.23,Senior,Low
+P0121,46,Male,28,97,246,No,No,2,9720.31,Adult,Medium
+P0122,53,Male,29.8,173,272,No,Yes,2,18468.36,Adult,High Cost
+P0123,30,Female,25,143,219,No,Yes,9,4345.81,Adult,Low
+P0124,49,Male,16.4,161,162,No,No,15,5065.18,Adult,Low
+P0125,88,Male,23.4,174,198,No,No,11,1247.56,Senior,Low
+P0126,76,Female,35.1,117,209,Yes,Yes,11,1269.61,Senior,Low
+P0127,45,Female,15.1,111,279,Yes,No,3,16758.44,Adult,High Cost
+P0128,83,Male,23.3,90,154,No,Yes,15,14910.33,Senior,Medium
+P0129,59,Female,25,124,176,Yes,Yes,5,7745.78,Adult,Low
+P0130,62,Male,28.4,168,298,Yes,Yes,14,14267.91,Senior,Medium
+P0131,79,Male,38,112,157,No,No,6,8508.91,Senior,Medium
+P0132,74,Male,23.7,120,199,Yes,Yes,9,19105.04,Senior,High Cost
+P0133,23,Female,23.7,87,216,No,No,3,19374,Young,High Cost
+P0134,45,Female,33.4,90,193,No,Yes,5,8463.08,Adult,Medium
+P0135,45,Female,26.3,165,274,Yes,No,10,17230.22,Adult,High Cost
+P0136,61,Female,20.6,130,207,No,No,0,15688.69,Senior,High Cost
+P0137,47,Female,26.3,167,152,No,No,13,6890,Adult,Low
+P0138,79,Male,18.5,120,235,No,Yes,7,5408.76,Senior,Low
+P0139,79,Male,19.4,96,219,No,Yes,6,9706.46,Senior,Medium
+P0140,18,Male,27.5,155,279,No,No,14,15845.63,Young,High Cost
+P0141,44,Male,25.5,125,151,Yes,No,10,19243.19,Adult,High Cost
+P0142,79,Female,37.9,111,251,Yes,No,10,15508,Senior,High Cost
+P0143,20,Male,24.1,158,184,No,Yes,15,17248.93,Young,High Cost
+P0144,87,Female,29.5,159,247,No,Yes,8,12458.22,Senior,Medium
+P0145,89,Male,30.8,133,179,Yes,Yes,2,16872.75,Senior,High Cost
+P0146,44,Female,15.3,165,265,No,Yes,1,15904,Adult,High Cost
+P0147,26,Female,31.6,171,157,Yes,No,0,8162.73,Young,Medium
+P0148,79,Male,19.5,99,299,No,No,2,11487.82,Senior,Medium
+P0149,54,Male,39,112,193,No,Yes,4,16290.31,Adult,High Cost
+P0150,68,Male,18.7,153,185,No,Yes,13,1875.08,Senior,Low
+P0151,61,Male,25.4,119,226,No,No,10,16353.51,Senior,High Cost
+P0152,41,Female,17.1,111,180,No,Yes,1,4379.87,Adult,Low
+P0153,76,Male,39.9,176,196,No,Yes,11,10778.99,Senior,Medium
+P0154,49,Male,27.6,81,204,No,Yes,2,16357.23,Adult,High Cost
+P0155,69,Female,29.9,176,255,Yes,Yes,14,5822.6,Senior,Low
+P0156,79,Male,16.7,112,270,Yes,Yes,14,5670.34,Senior,Low
+P0157,75,Male,33.7,156,204,Yes,Yes,14,8652.52,Senior,Medium
+P0158,69,Male,20.2,109,293,No,No,3,17998.21,Senior,High Cost
+P0159,29,Male,37.5,112,161,No,Yes,6,1008.41,Young,Low
+P0160,56,Male,20.1,156,294,No,Yes,12,18126.28,Adult,High Cost
+P0161,19,Female,19.8,105,293,No,No,2,3922.33,Young,Low
+P0162,20,Male,15.9,101,289,No,No,15,19811.64,Young,High Cost
+P0163,73,Male,26.8,145,285,No,No,14,19142.09,Senior,High Cost
+P0164,76,Male,29.1,117,152,No,Yes,8,10398.83,Senior,Medium
+P0165,19,Male,16.6,169,293,Yes,No,7,10741.68,Young,Medium
+P0166,19,Male,34.4,125,179,No,Yes,3,10149.44,Young,Medium
+P0167,71,Female,26.3,94,172,Yes,Yes,12,13073.43,Senior,Medium
+P0168,18,Male,28.1,177,241,Yes,Yes,0,2723.71,Young,Low
+P0169,36,Female,26,123,264,No,No,0,1619.74,Adult,Low
+P0170,19,Female,25,128,253,No,No,0,2096.36,Young,Low
+P0171,70,Male,29,154,267,Yes,No,0,9442.94,Senior,Medium
+P0172,61,Male,18.9,140,154,Yes,No,15,6235.41,Senior,Low
+P0173,49,Male,19.5,146,253,No,No,7,12818.75,Adult,Medium
+P0174,87,Male,36.5,85,257,No,Yes,2,19856.4,Senior,High Cost
+P0175,49,Female,38.7,88,214,Yes,Yes,14,8340.14,Adult,Medium
+P0176,85,Male,24.3,85,270,No,Yes,5,11902.98,Senior,Medium
+P0177,72,Male,21.8,152,179,No,Yes,2,8896.47,Senior,Medium
+P0178,73,Male,31.1,174,298,No,No,10,17098.16,Senior,High Cost
+P0179,34,Male,25.2,111,233,Yes,No,4,18142.49,Adult,High Cost
+P0180,55,Male,15.6,120,299,Yes,Yes,12,17669.76,Adult,High Cost
+P0181,41,Male,18.9,155,181,Yes,No,14,19513.07,Adult,High Cost
+P0182,86,Female,32.9,87,165,No,No,13,1522.86,Senior,Low
+P0183,87,Female,31.5,151,187,No,Yes,12,16956.51,Senior,High Cost
+P0184,28,Male,15.7,129,291,Yes,Yes,14,15283.67,Young,High Cost
+P0185,33,Male,20.5,171,185,Yes,No,6,5345.19,Adult,Low
+P0186,90,Male,20.8,141,300,Yes,No,15,19170.08,Senior,High Cost
+P0187,76,Female,31.8,163,263,No,Yes,1,3815.38,Senior,Low
+P0188,87,Male,15.5,141,215,Yes,Yes,15,13911.45,Senior,Medium
+P0189,20,Female,17.6,86,254,Yes,Yes,5,5272.91,Young,Low
+P0190,37,Male,35,154,234,No,No,12,9196.23,Adult,Medium
+P0191,76,Male,19.5,163,151,No,Yes,5,14664.04,Senior,Medium
+P0192,53,Male,31.3,159,224,No,Yes,10,11703.17,Adult,Medium
+P0193,36,Male,21,83,216,Yes,No,2,9122.53,Adult,Medium
+P0194,84,Female,17.5,85,300,No,No,5,7200.43,Senior,Low
+P0195,36,Female,21.1,137,204,No,No,9,16953.53,Adult,High Cost
+P0196,37,Male,33.1,101,155,Yes,No,9,3732.47,Adult,Low
+P0197,88,Male,36.4,105,299,No,No,15,9171.95,Senior,Medium
+P0198,69,Female,35.8,82,292,Yes,Yes,13,18171.39,Senior,High Cost
+P0199,50,Female,24.9,120,235,Yes,Yes,4,17071.14,Adult,High Cost
+P0200,57,Female,31.7,139,209,No,No,15,8617.89,Adult,Medium
+P0201,56,Female,20.1,93,250,No,No,11,15499.06,Adult,High Cost
+P0202,18,Male,22.3,154,161,No,No,1,16640.06,Young,High Cost
+P0203,28,Female,37.4,161,198,No,No,8,17888.86,Young,High Cost
+P0204,74,Male,15.3,91,191,No,No,7,11345.61,Senior,Medium
+P0205,67,Female,17.1,166,231,No,Yes,2,4884.76,Senior,Low
+P0206,40,Female,20.2,91,184,Yes,Yes,7,5850.87,Adult,Low
+P0207,48,Female,15.7,92,283,Yes,Yes,13,6618.2,Adult,Low
+P0208,59,Female,19.5,104,216,No,Yes,8,12282.25,Adult,Medium
+P0209,24,Female,29.6,124,229,Yes,No,13,1623.38,Young,Low
+P0210,33,Male,25.5,98,156,No,Yes,14,13084.81,Adult,Medium
+P0211,77,Male,37.3,134,163,Yes,No,2,7922.73,Senior,Low
+P0212,19,Female,35.4,179,222,Yes,No,2,6609.59,Young,Low
+P0213,18,Female,23.5,124,292,Yes,No,1,17710.43,Young,High Cost
+P0214,65,Male,21.5,87,298,No,Yes,7,9740.05,Senior,Medium
+P0215,29,Female,24.5,172,215,Yes,No,9,2806.01,Young,Low
+P0216,86,Female,29.8,132,240,No,Yes,0,16708.19,Senior,High Cost
+P0217,54,Male,21.7,134,279,Yes,Yes,7,1905.18,Adult,Low
+P0218,49,Female,30.6,111,169,Yes,No,6,14808.24,Adult,Medium
+P0219,26,Female,25.2,130,159,Yes,No,13,15704.22,Young,High Cost
+P0220,36,Male,28.8,123,174,Yes,No,6,7699.45,Adult,Low
+P0221,65,Male,25.9,161,174,Yes,Yes,2,16670.97,Senior,High Cost
+P0222,20,Male,22.4,149,203,No,No,0,10797.53,Young,Medium
+P0223,37,Female,38.7,97,182,No,Yes,3,9802.58,Adult,Medium
+P0224,41,Male,34.1,162,244,Yes,No,8,1862.66,Adult,Low
+P0225,71,Male,18.5,101,163,Yes,No,4,6510.55,Senior,Low
+P0226,50,Male,36.7,116,214,Yes,Yes,0,18689.19,Adult,High Cost
+P0227,41,Male,27.2,175,259,Yes,Yes,14,8444.66,Adult,Medium
+P0228,89,Male,37.4,135,229,No,Yes,4,11387.31,Senior,Medium
+P0229,53,Male,35,138,203,Yes,Yes,12,11108.41,Adult,Medium
+P0230,55,Female,25.6,82,274,No,Yes,7,12218.19,Adult,Medium
+P0231,42,Female,15.6,107,280,Yes,Yes,7,2165.29,Adult,Low
+P0232,35,Male,21.7,153,283,No,No,4,7881.35,Adult,Low
+P0233,83,Male,28.5,114,174,Yes,No,11,14739.44,Senior,Medium
+P0234,71,Male,30.8,140,290,Yes,Yes,15,4810.64,Senior,Low
+P0235,52,Female,21.4,172,266,No,No,8,4867.99,Adult,Low
+P0236,78,Female,18.5,133,285,Yes,Yes,14,1191.72,Senior,Low
+P0237,58,Female,35.9,142,298,Yes,No,0,9312.16,Adult,Medium
+P0238,50,Female,39.6,158,174,Yes,No,3,17771.95,Adult,High Cost
+P0239,85,Female,28.1,176,228,No,Yes,2,1986.12,Senior,Low
+P0240,50,Female,19.3,86,217,Yes,Yes,1,4631.26,Adult,Low
+P0241,31,Female,21.8,155,161,Yes,Yes,14,6891.61,Adult,Low
+P0242,38,Female,15.5,128,181,No,No,7,14902.77,Adult,Medium
+P0243,65,Female,37.9,173,277,No,Yes,6,13172.08,Senior,Medium
+P0244,37,Male,17.9,164,245,No,No,8,8902.93,Adult,Medium
+P0245,25,Male,29.4,110,241,Yes,Yes,1,15422.31,Young,High Cost
+P0246,24,Male,21.9,137,290,Yes,No,13,12582.99,Young,Medium
+P0247,84,Male,28.9,140,180,Yes,No,13,18024.78,Senior,High Cost
+P0248,34,Female,31.3,103,227,No,Yes,15,16542.51,Adult,High Cost
+P0249,50,Female,35.7,99,169,Yes,No,3,5803.46,Adult,Low
+P0250,65,Male,20.2,116,295,Yes,No,13,6157.33,Senior,Low
+P0251,76,Female,15.3,83,209,No,Yes,14,3381.77,Senior,Low
+P0252,39,Male,18.4,171,283,No,No,5,7402.33,Adult,Low
+P0253,47,Female,37.5,99,242,No,Yes,10,19991.33,Adult,High Cost
+P0254,55,Male,36.8,139,192,No,Yes,2,8709.27,Adult,Medium
+P0255,68,Female,29.9,103,279,No,Yes,7,5189.28,Senior,Low
+P0256,71,Female,30,129,209,Yes,Yes,2,15487.17,Senior,High Cost
+P0257,25,Male,31.6,128,300,No,No,13,11306.95,Young,Medium
+P0258,44,Female,19.4,130,180,Yes,No,11,3842.43,Adult,Low
+P0259,44,Male,37.9,175,154,Yes,No,12,8233.1,Adult,Medium
+P0260,38,Male,25.5,115,159,No,Yes,12,8874.92,Adult,Medium
+P0261,47,Male,24.6,177,238,No,No,15,15322.76,Adult,High Cost
+P0262,45,Male,28,179,279,No,No,1,1392.76,Adult,Low
+P0263,81,Female,16.2,145,275,Yes,Yes,12,6111.37,Senior,Low
+P0264,86,Female,19.2,158,160,No,Yes,12,10834.33,Senior,Medium
+P0265,78,Female,33.5,113,205,No,No,2,6108.09,Senior,Low
+P0266,65,Male,17.1,115,232,No,Yes,10,12940.25,Senior,Medium
+P0267,36,Female,30.1,85,286,No,Yes,5,10155.48,Adult,Medium
+P0268,21,Male,21.1,118,248,No,Yes,15,7872.49,Young,Low
+P0269,52,Female,24.7,121,298,Yes,Yes,1,19034.96,Adult,High Cost
+P0270,81,Female,22.2,137,222,Yes,No,7,13011.03,Senior,Medium
+P0271,66,Female,23.9,91,264,Yes,Yes,0,3468.89,Senior,Low
+P0272,34,Male,33,82,156,No,Yes,6,11641.74,Adult,Medium
+P0273,61,Female,22.4,97,229,No,Yes,1,15833.91,Senior,High Cost
+P0274,47,Female,29.2,119,293,No,Yes,9,14461.3,Adult,Medium
+P0275,63,Male,26.9,100,246,Yes,Yes,11,4269.7,Senior,Low
+P0276,23,Female,31.6,94,153,No,Yes,15,19475.98,Young,High Cost
+P0277,54,Male,38.4,176,153,No,Yes,5,9527.46,Adult,Medium
+P0278,41,Female,33.3,178,252,No,Yes,11,4021.48,Adult,Low
+P0279,63,Male,20.4,105,189,Yes,No,1,4423.72,Senior,Low
+P0280,70,Male,15.8,87,166,No,Yes,1,2866.46,Senior,Low
+P0281,77,Female,21.6,179,250,Yes,No,9,16266.84,Senior,High Cost
+P0282,80,Male,29.9,173,252,No,Yes,12,3318.58,Senior,Low
+P0283,49,Male,16.3,166,273,Yes,Yes,7,3377.38,Adult,Low
+P0284,50,Male,27.4,121,201,Yes,Yes,14,17158.96,Adult,High Cost
+P0285,84,Male,29.9,123,201,Yes,Yes,14,7547.48,Senior,Low
+P0286,35,Male,23.4,93,273,No,No,11,1586.3,Adult,Low
+P0287,42,Male,34.3,157,212,No,Yes,1,1986.01,Adult,Low
+P0288,71,Female,17.7,81,265,Yes,Yes,6,3701.24,Senior,Low
+P0289,75,Male,16.9,116,211,Yes,No,2,5054.47,Senior,Low
+P0290,84,Male,33.2,148,156,No,No,7,13637.78,Senior,Medium
+P0291,63,Female,27.4,117,241,No,Yes,6,3989.2,Senior,Low
+P0292,41,Female,32.2,120,163,Yes,No,13,3258.61,Adult,Low
+P0293,49,Female,25.9,141,235,No,No,7,15529.66,Adult,High Cost
+P0294,64,Female,21.2,139,282,No,No,13,13750.05,Senior,Medium
+P0295,40,Female,35.5,93,279,No,Yes,6,9271.16,Adult,Medium
+P0296,83,Female,35,168,211,No,Yes,10,11436.89,Senior,Medium
+P0297,44,Female,32.4,163,298,Yes,Yes,5,6927.7,Adult,Low
+P0298,19,Male,21.8,81,228,No,No,12,10167.51,Young,Medium
+P0299,34,Male,29.8,149,298,No,Yes,6,10626.78,Adult,Medium
+P0300,50,Female,24,96,287,Yes,No,4,8357.51,Adult,Medium
+P0301,26,Male,17.3,168,207,Yes,Yes,6,18224.87,Young,High Cost
+P0302,60,Male,37.9,107,269,No,Yes,0,1305.18,Senior,Low
+P0303,65,Male,18.4,145,282,No,No,0,15861.25,Senior,High Cost
+P0304,56,Female,38.8,114,214,No,Yes,8,3363.27,Adult,Low
+P0305,59,Female,26.2,180,162,No,No,13,16153.4,Adult,High Cost
+P0306,43,Male,19.6,84,231,Yes,No,4,12702.33,Adult,Medium
+P0307,67,Female,28.5,144,288,Yes,Yes,12,17022.28,Senior,High Cost
+P0308,42,Male,36.8,119,298,Yes,No,4,2852.77,Adult,Low
+P0309,41,Male,33.3,155,201,No,Yes,2,11620.63,Adult,Medium
+P0310,30,Male,35.2,135,266,No,Yes,4,10520.67,Adult,Medium
+P0311,77,Male,31.5,115,175,No,No,2,14417.67,Senior,Medium
+P0312,24,Female,32.3,124,183,No,Yes,8,11151.52,Young,Medium
+P0313,74,Female,36.2,102,201,Yes,No,8,11273.96,Senior,Medium
+P0314,53,Female,21.2,126,261,Yes,Yes,5,9162.32,Adult,Medium
+P0315,62,Male,27.2,110,231,No,Yes,14,6867.85,Senior,Low
+P0316,37,Female,20.5,90,191,Yes,Yes,0,10163.02,Adult,Medium
+P0317,82,Male,39.7,89,170,No,Yes,6,3251.35,Senior,Low
+P0318,25,Female,38.6,146,191,No,Yes,6,19268.75,Young,High Cost
+P0319,33,Male,16,93,290,Yes,No,15,14573.8,Adult,Medium
+P0320,31,Male,32.6,159,262,No,No,13,19096.88,Adult,High Cost
+P0321,32,Male,38.1,153,254,No,No,9,5307.82,Adult,Low
+P0322,83,Female,19.5,172,166,Yes,No,9,17707.48,Senior,High Cost
+P0323,49,Female,29.2,89,269,No,No,3,16367.01,Adult,High Cost
+P0324,80,Female,37.9,155,286,No,No,7,13865.9,Senior,Medium
+P0325,68,Female,15.8,173,278,Yes,Yes,5,12875.55,Senior,Medium
+P0326,42,Male,32.4,80,279,No,Yes,3,7014.44,Adult,Low
+P0327,75,Female,22.4,84,209,Yes,No,3,16511.8,Senior,High Cost
+P0328,80,Female,38.1,99,197,No,No,15,10528.79,Senior,Medium
+P0329,79,Male,39.3,87,178,Yes,Yes,1,2346.94,Senior,Low
+P0330,39,Male,38.6,122,246,Yes,Yes,13,6944.4,Adult,Low
+P0331,75,Male,26.9,155,159,Yes,Yes,1,18770.64,Senior,High Cost
+P0332,75,Female,36.6,80,207,No,No,11,17162.92,Senior,High Cost
+P0333,66,Male,36.1,136,170,Yes,No,13,19656.21,Senior,High Cost
+P0334,69,Male,23,143,177,Yes,No,3,12931.87,Senior,Medium
+P0335,59,Male,35.7,163,183,Yes,Yes,4,5702.69,Adult,Low
+P0336,87,Female,15.9,107,157,Yes,Yes,7,4093.49,Senior,Low
+P0337,32,Male,29.9,116,228,Yes,No,14,4551.37,Adult,Low
+P0338,71,Female,20.8,126,294,No,No,5,1376.12,Senior,Low
+P0339,77,Female,18,180,236,No,Yes,13,8422.96,Senior,Medium
+P0340,25,Male,16.9,155,237,No,Yes,14,4637.13,Young,Low
+P0341,70,Male,32.4,116,218,No,Yes,3,8821.45,Senior,Medium
+P0342,77,Female,23.5,128,236,No,Yes,12,18764.89,Senior,High Cost
+P0343,22,Male,33.1,123,250,No,No,10,9180.26,Young,Medium
+P0344,85,Male,16.6,135,157,No,Yes,6,17681.71,Senior,High Cost
+P0345,23,Female,22.9,107,226,Yes,Yes,7,12504.59,Young,Medium
+P0346,64,Female,28.5,158,236,No,Yes,1,5695.5,Senior,Low
+P0347,72,Male,34.8,85,192,Yes,No,11,7761.24,Senior,Low
+P0348,57,Female,23,140,278,Yes,No,6,2594.47,Adult,Low
+P0349,69,Male,30.6,99,258,No,Yes,14,7335.79,Senior,Low
+P0350,33,Male,37.1,157,166,Yes,Yes,13,13873.28,Adult,Medium
+P0351,30,Male,30.4,81,282,Yes,Yes,1,2370.11,Adult,Low
+P0352,47,Female,20.8,152,297,Yes,No,1,4902.63,Adult,Low
+P0353,36,Male,15.6,116,170,Yes,No,7,8247.38,Adult,Medium
+P0354,34,Male,36.8,99,207,No,No,1,19658.94,Adult,High Cost
+P0355,80,Male,15.5,105,259,No,Yes,14,15912.37,Senior,High Cost
+P0356,36,Female,36.9,108,288,No,No,10,14936.25,Adult,Medium
+P0357,75,Female,28.2,80,292,No,Yes,8,3207.63,Senior,Low
+P0358,72,Female,38.5,114,284,No,Yes,11,15838.92,Senior,High Cost
+P0359,79,Female,35,149,177,No,Yes,0,15920.11,Senior,High Cost
+P0360,40,Female,39.9,180,200,No,No,14,12420.95,Adult,Medium
+P0361,26,Male,23.8,138,154,No,Yes,8,19816.87,Young,High Cost
+P0362,29,Female,34.2,148,154,No,No,14,7179.82,Young,Low
+P0363,18,Female,25,112,243,No,No,0,18884.18,Young,High Cost
+P0364,75,Female,27,130,245,Yes,Yes,9,18379.89,Senior,High Cost
+P0365,18,Male,30.7,157,157,No,Yes,12,1218.13,Young,Low
+P0366,51,Female,36.8,91,213,Yes,No,9,9552.21,Adult,Medium
+P0367,65,Female,39.6,99,287,Yes,Yes,1,19564.98,Senior,High Cost
+P0368,18,Male,34.2,132,187,Yes,No,15,2959.31,Young,Low
+P0369,33,Female,25.4,167,260,Yes,Yes,5,11407.91,Adult,Medium
+P0370,78,Male,25.5,122,261,No,No,5,19600.19,Senior,High Cost
+P0371,81,Male,33.4,177,230,Yes,No,0,11554.41,Senior,Medium
+P0372,80,Male,21,168,285,No,No,6,4606.49,Senior,Low
+P0373,86,Male,17.8,129,253,No,No,7,12061.48,Senior,Medium
+P0374,39,Male,23.9,108,222,Yes,Yes,1,4884.37,Adult,Low
+P0375,84,Female,22.2,136,198,No,Yes,7,10874.38,Senior,Medium
+P0376,43,Male,22.4,118,185,Yes,No,8,2406.8,Adult,Low
+P0377,33,Male,20.8,174,275,Yes,No,5,12504.17,Adult,Medium
+P0378,68,Female,16.1,135,217,No,Yes,4,10819.01,Senior,Medium
+P0379,74,Male,15.4,122,227,No,Yes,11,15063.07,Senior,High Cost
+P0380,46,Female,39.7,129,254,Yes,Yes,8,12983.31,Adult,Medium
+P0381,86,Female,25.7,102,271,No,Yes,15,11442.52,Senior,Medium
+P0382,64,Female,24.6,123,268,No,Yes,12,14105.8,Senior,Medium
+P0383,79,Male,32,117,263,No,Yes,11,3734.9,Senior,Low
+P0384,86,Male,20.5,163,159,Yes,No,10,12311.83,Senior,Medium
+P0385,33,Male,38.7,102,298,Yes,Yes,8,4270.1,Adult,Low
+P0386,65,Female,34.7,124,289,No,Yes,0,18584.92,Senior,High Cost
+P0387,56,Male,17.2,131,240,No,No,10,2298.35,Adult,Low
+P0388,50,Male,25.4,159,151,No,Yes,2,9177.12,Adult,Medium
+P0389,40,Male,37,129,267,No,Yes,8,14220.15,Adult,Medium
+P0390,27,Female,38.6,87,162,No,Yes,10,9702.42,Young,Medium
+P0391,86,Female,26.7,164,244,Yes,Yes,1,2749.81,Senior,Low
+P0392,51,Male,30.3,80,293,No,Yes,11,11514.2,Adult,Medium
+P0393,69,Male,19.2,87,181,Yes,No,3,13191.01,Senior,Medium
+P0394,27,Male,39.8,108,181,No,Yes,3,14372.05,Young,Medium
+P0395,36,Male,20.8,175,273,Yes,No,1,8091.94,Adult,Medium
+P0396,75,Female,38.6,84,160,No,No,14,11709.54,Senior,Medium
+P0397,18,Female,31.2,165,159,Yes,Yes,2,9563.04,Young,Medium
+P0398,86,Female,30.2,126,164,No,No,12,13769.06,Senior,Medium
+P0399,21,Female,27.8,113,166,Yes,Yes,2,12087.58,Young,Medium
+P0400,33,Male,20.8,144,295,Yes,No,0,10989.37,Adult,Medium
+P0401,41,Male,19.4,134,208,Yes,No,5,5740.96,Adult,Low
+P0402,19,Male,20.5,169,227,Yes,Yes,15,1038.35,Young,Low
+P0403,49,Female,19.7,122,273,Yes,Yes,7,4307.55,Adult,Low
+P0404,41,Male,34.5,153,263,Yes,Yes,11,3224.25,Adult,Low
+P0405,29,Female,23.8,109,171,No,Yes,2,9532.61,Young,Medium
+P0406,67,Female,16.4,161,181,Yes,Yes,4,12632.9,Senior,Medium
+P0407,52,Male,39.2,96,262,No,No,0,5048.62,Adult,Low
+P0408,50,Male,37.1,105,269,No,No,9,18842.08,Adult,High Cost
+P0409,50,Male,38.2,87,298,No,No,6,1126.96,Adult,Low
+P0410,78,Female,39.9,126,271,No,No,9,15673.72,Senior,High Cost
+P0411,68,Male,19.3,155,181,No,No,12,12878.89,Senior,Medium
+P0412,60,Female,24.9,170,268,Yes,No,0,8097.54,Senior,Medium
+P0413,29,Male,34,151,188,Yes,No,11,1959.29,Young,Low
+P0414,84,Female,32.4,168,161,Yes,Yes,10,12922.24,Senior,Medium
+P0415,82,Female,18.8,125,167,No,Yes,8,8326.66,Senior,Medium
+P0416,50,Male,35.4,147,298,Yes,No,7,18789.08,Adult,High Cost
+P0417,57,Female,20.6,112,290,Yes,No,6,11297.81,Adult,Medium
+P0418,60,Female,20.6,80,298,Yes,Yes,9,18853.38,Senior,High Cost
+P0419,61,Male,28.4,98,275,Yes,Yes,14,5189.19,Senior,Low
+P0420,46,Female,29.8,110,285,Yes,Yes,6,14788.79,Adult,Medium
+P0421,30,Male,29.5,159,195,No,Yes,4,12727.73,Adult,Medium
+P0422,29,Female,17.3,93,253,Yes,No,4,15048.76,Young,High Cost
+P0423,63,Male,36.9,132,284,No,Yes,10,5078.69,Senior,Low
+P0424,19,Male,21.6,127,300,No,No,12,13634.9,Young,Medium
+P0425,52,Female,18.2,148,235,No,No,4,10462.77,Adult,Medium
+P0426,25,Female,37.2,169,299,No,No,0,15113.67,Young,High Cost
+P0427,43,Female,38.9,141,238,No,Yes,7,7213.85,Adult,Low
+P0428,51,Female,36.6,171,171,Yes,Yes,11,17911.08,Adult,High Cost
+P0429,24,Female,35.2,145,241,Yes,No,10,2601.72,Young,Low
+P0430,85,Male,31.4,143,178,Yes,No,0,16336.6,Senior,High Cost
+P0431,75,Female,28.8,149,162,No,No,3,17365.07,Senior,High Cost
+P0432,46,Male,17.2,142,151,Yes,Yes,14,16527.79,Adult,High Cost
+P0433,53,Male,25.2,152,178,Yes,No,8,10741.8,Adult,Medium
+P0434,38,Female,24.3,112,176,No,Yes,13,9329.31,Adult,Medium
+P0435,53,Male,21.5,120,199,No,No,8,19928.98,Adult,High Cost
+P0436,27,Male,33.1,168,244,No,No,4,5354.27,Young,Low
+P0437,90,Male,27.4,127,300,No,No,3,11390.64,Senior,Medium
+P0438,41,Male,17,92,237,Yes,Yes,2,13742.83,Adult,Medium
+P0439,81,Female,20.5,152,193,No,Yes,2,14316.49,Senior,Medium
+P0440,66,Male,32.1,156,171,No,No,11,4876.47,Senior,Low
+P0441,53,Female,16.9,110,246,Yes,Yes,4,13425.89,Adult,Medium
+P0442,41,Female,36.3,154,152,Yes,No,9,16549.02,Adult,High Cost
+P0443,40,Male,27.4,147,267,No,Yes,0,1950.35,Adult,Low
+P0444,79,Female,27,177,168,Yes,Yes,4,18318.9,Senior,High Cost
+P0445,54,Female,29.8,83,172,No,Yes,5,1560.58,Adult,Low
+P0446,29,Female,35.6,98,179,No,No,15,7763.45,Young,Low
+P0447,72,Male,23.7,149,188,Yes,Yes,6,1300.45,Senior,Low
+P0448,30,Female,32,177,257,Yes,Yes,11,2465.76,Adult,Low
+P0449,40,Female,29.1,161,260,No,No,15,18312.2,Adult,High Cost
+P0450,47,Female,21.7,92,174,No,No,8,7742.36,Adult,Low
+P0451,34,Male,37,102,277,No,No,2,9070.66,Adult,Medium
+P0452,79,Female,34.9,162,260,Yes,No,14,5091.54,Senior,Low
+P0453,30,Male,31.5,154,285,No,Yes,15,12344.82,Adult,Medium
+P0454,76,Male,36.3,80,255,No,Yes,1,12301.26,Senior,Medium
+P0455,36,Male,36.7,167,293,No,Yes,15,8071.81,Adult,Medium
+P0456,66,Male,32.7,133,221,No,Yes,13,7327.66,Senior,Low
+P0457,29,Male,35.9,150,278,No,Yes,2,17814.32,Young,High Cost
+P0458,78,Male,32.4,168,257,Yes,No,11,8282.4,Senior,Medium
+P0459,36,Female,32,164,154,No,Yes,8,10376.52,Adult,Medium
+P0460,26,Male,30.5,94,152,No,Yes,11,6382.79,Young,Low
+P0461,88,Female,33.8,144,281,No,Yes,6,15948.62,Senior,High Cost
+P0462,45,Female,19,155,253,No,No,8,8551.51,Adult,Medium
+P0463,69,Male,37,150,213,Yes,No,12,10758.61,Senior,Medium
+P0464,33,Female,36.8,94,255,Yes,Yes,1,5813.79,Adult,Low
+P0465,86,Female,15.7,100,247,Yes,No,4,19765.53,Senior,High Cost
+P0466,29,Female,35.6,98,159,No,No,12,6538.42,Young,Low
+P0467,42,Female,18.2,139,298,No,No,3,15644.11,Adult,High Cost
+P0468,69,Male,23.4,172,277,Yes,No,14,9122.42,Senior,Medium
+P0469,70,Female,33.6,168,195,Yes,No,1,4918.13,Senior,Low
+P0470,40,Male,19,112,215,Yes,No,15,16194.66,Adult,High Cost
+P0471,33,Female,35.4,128,261,No,No,8,7338.53,Adult,Low
+P0472,74,Female,35.8,175,162,No,Yes,8,17438.67,Senior,High Cost
+P0473,56,Male,27.7,114,286,Yes,Yes,5,18389.89,Adult,High Cost
+P0474,70,Female,15.2,123,235,Yes,No,10,17336.65,Senior,High Cost
+P0475,59,Female,22.2,169,239,Yes,Yes,5,1665.15,Adult,Low
+P0476,75,Female,30.4,90,207,No,Yes,7,15960.09,Senior,High Cost
+P0477,56,Male,39.5,178,203,No,No,5,8815.45,Adult,Medium
+P0478,31,Female,30.8,151,161,No,Yes,0,17600.74,Adult,High Cost
+P0479,22,Male,21.5,157,163,Yes,No,3,13121.13,Young,Medium
+P0480,52,Female,30.9,153,270,Yes,No,12,16839.22,Adult,High Cost
+P0481,35,Male,28.5,145,270,No,No,6,10489.2,Adult,Medium
+P0482,26,Male,34.5,125,169,Yes,Yes,12,11165.48,Young,Medium
+P0483,75,Female,17.7,88,224,No,Yes,12,3743.37,Senior,Low
+P0484,34,Female,34,82,293,Yes,Yes,1,15895.76,Adult,High Cost
+P0485,24,Male,28.5,164,219,Yes,Yes,8,8968.4,Young,Medium
+P0486,63,Male,39.1,105,205,Yes,No,7,10501.52,Senior,Medium
+P0487,30,Female,23.5,151,250,Yes,No,7,15916.86,Adult,High Cost
+P0488,57,Male,30.8,127,281,No,Yes,6,12378.06,Adult,Medium
+P0489,59,Female,38.3,145,260,Yes,No,3,4820.88,Adult,Low
+P0490,26,Female,17.6,149,274,No,No,1,12214.42,Young,Medium
+P0491,67,Female,38.4,107,281,No,Yes,2,8745.02,Senior,Medium
+P0492,44,Female,32.2,172,169,No,No,11,9920.99,Adult,Medium
+P0493,83,Male,16.7,105,287,Yes,Yes,5,1537.91,Senior,Low
+P0494,22,Female,22.5,104,173,No,No,11,4990.56,Young,Low
+P0495,46,Male,32.7,91,186,No,Yes,11,6339.72,Adult,Low
+P0496,54,Female,16.7,84,203,No,No,4,14546.24,Adult,Medium
+P0497,55,Male,29.6,177,252,Yes,No,11,1218.36,Adult,Low
+P0498,25,Female,23.6,127,298,Yes,Yes,7,8766.77,Young,Medium
+P0499,82,Male,30.5,116,187,No,Yes,5,18556.51,Senior,High Cost
+P0500,34,Male,16.1,158,153,Yes,Yes,5,3125.73,Adult,Low
